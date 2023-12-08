@@ -15,9 +15,6 @@ Usage : Go to Search Page in the left sidebar to search for movies
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - User-friendly interface to search for movies by title.
