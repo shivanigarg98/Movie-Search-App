@@ -6,7 +6,7 @@ The app has 4 pages : Home, About, Data Description, Search
 
 Usage : Go to Search Page in the left sidebar to search for movies
 
-![image-20231208152323501](image/movie_search.jpg)
+![image-20231208152323501](blob:https://medium.com/ca5d981c-96b5-48a5-9c59-4125febb17b8)
 
 ## Table of Contents
 
